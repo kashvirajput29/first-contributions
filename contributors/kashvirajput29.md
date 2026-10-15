@@ -1,13 +1,12 @@
 ---
-github: kashvi_rajput29
+github: kashvirajput29
 name: Kashvi Rajput
 year: FE
 branch: EXCS
 
 knows:
   - python
-  - javas
-  - MySQL
+  - java
 
 wants:
   - Node.js
