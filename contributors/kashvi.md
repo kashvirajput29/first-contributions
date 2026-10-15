@@ -17,4 +17,4 @@ wants:
   - Open Source
 ---
 
-First Year student, exploring open source and AI...
+First Year student, exploring open source and AI...gbuhgu
